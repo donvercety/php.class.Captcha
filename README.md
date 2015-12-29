@@ -1,9 +1,9 @@
 
 # php.class.Captcha v1.0
 
-*Lightweight PHP Captcha library. Easy to use, flexible.*
-*Version 1.0*
-*Using [Monaco Font][1]*
+*Lightweight PHP Captcha library. Easy to use, flexible.*  
+*Version 1.0*  
+*Using [Monaco Font][1]*  
 
 **Simple usage:**
 
