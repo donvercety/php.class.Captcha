@@ -5,6 +5,8 @@
 *Version 1.0*  
 *Using [Monaco Font][1]*  
 
+![Captcha](http://prikachi.com/images/111/8545111A.png)
+
 **Simple usage:**
 
 The class provides two simple public static methods methods. One to generate the captcha image `Captcha::make()`, and one to check the validity of the given code compared to the generated captcha `Captcha::check()` A simple example is shown below.
