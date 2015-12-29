@@ -34,5 +34,5 @@ if (isset($_GET["check"])) {
 For a complete example check the [`example`][3] folder
 
 [1]:https://github.com/todylu/monaco.ttf
-[2]:https://github.com/donvercety/php.class.Captcha/example
-[3]:https://github.com/todylu/monaco.ttf
+[2]:http://php.net/manual/en/function.session-start.php
+[3]:https://github.com/donvercety/php.class.Captcha/example
